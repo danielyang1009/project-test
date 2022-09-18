@@ -1,0 +1,14 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+regtables.py,sha256=qNtZRRJN4PYUcIHSXlhzfr08ArxTAjgpCgbKNUjj8GE,11692
+finance_byu/LICENSE.txt,sha256=S4YlLl8W_vucqh2n63w62p-S0GmU7CN3RLHUc0_hFpM,1075
+finance_byu/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+finance_byu/fama_macbeth.py,sha256=mg6oOV5yHsSQCYmKlRoLECKQ3IjFKaiMUGjeyUkS_r4,14874
+finance_byu/regression.py,sha256=vsjIdzspKqphszGJMp3jvW9RVUvc2VJFDxcVzjyo3Qw,1269
+finance_byu/regtables.py,sha256=vMvpNpcnXrgA_9fj4OMdq0bSOwM_YhImemSMh6UiK40,14648
+finance_byu/rolling.py,sha256=h852IGeRLYUfeF1ibIu2fPNj9OXvFAyfD4X0UT3LZYA,32349
+finance_byu/statistics.py,sha256=pjPYEbbNFl1h87RdXDzjjDcvVkb2qxHKkow4_xBOFIs,2316
+finance_byu/summarize.py,sha256=rA6uf6U_-F5qnzPT04FWCGfAWHgQKPcr4MybhvSazMw,1864
+finance_byu-0.1.0.27.dist-info/METADATA,sha256=TIfV43BNLfpASFYMw2LuFz277i6ACeuORhTBaV-SZkg,1176
+finance_byu-0.1.0.27.dist-info/WHEEL,sha256=YUYzQ6UQdoqxXjimOitTqynltBCkwY6qlTfTh2IzqQU,97
+finance_byu-0.1.0.27.dist-info/top_level.txt,sha256=61VgMe3erWciC_OcrnrxJ619NatxN6CiXgOoxaSmShM,12
+finance_byu-0.1.0.27.dist-info/RECORD,,

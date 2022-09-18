@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: finance-byu
+Version: 0.1.0.27
+Summary: Classes and functions for FIN 585 and finance research at                                  Brigham Young University
+Home-page: UNKNOWN
+Author: Damon Petersen
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: joblib
+Requires-Dist: statsmodels
+Requires-Dist: numba
+Requires-Dist: scipy
+Requires-Dist: patsy
+
+# BYU FIN 585 Library (finance_byu)
+
+This library contains classes and functions for FIN 585 at Brigham Young University which are
+generally useful for academic finance research.
+
+## Getting Started
+
+The library can currently be installed from the Test PyPi server: `pip install finance-byu`
+
+To use this library, use the following code at the top of your script: `import 
+finance_byu as fin`. 
+
+### Prerequisites
+
+You should have Continuum Anaconda installed prior to installing this package.
+
+## License
+
+This project is licensed under the MIT License - see the finance_byu/LICENSE.txt file for details
+
